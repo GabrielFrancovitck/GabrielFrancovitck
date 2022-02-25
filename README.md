@@ -4,7 +4,6 @@
 - 🌱 No momento tenho conhecimento em <strong>HTML e CSS</strong>. Entretanto, já estou encaminhado para a linguagem <strong>JavaScript!</strong>
 - 📫 Contate-me: <strong>linkedin.com/in/gabrielfrancovitck</strong> ou instagram <strong>@imbieelsz</strong>
 - 💬 Perguntas: Caso deseje saber algo sobre mim pode me contatar por alguma das redes sociais acima 🙂. 
-- 😄 Pronouns: Ele/dele
 - ⚡ Curiosidade: Ganhei o meu primeiro computador aos meus 11 anos de idade dos meus pais.
 Desde então, sempre fui apaixonado por desenvolvimento de sistemas ou relacionado, mas, só agora aos 22 anos comecei a cursar a faculdade.
 <br>
